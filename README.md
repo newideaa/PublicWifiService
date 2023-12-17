@@ -16,7 +16,7 @@
 - sqlite 연결을 위한 sqlite-jdbc
 ---
 # ERD
-
+![ServletJSP](https://github.com/newideaa/PublicWifiService/assets/33719601/d097a2df-dc0c-4264-a487-85c60c9b7bac)
 ---
 # 주요 기능
 - OPEN API를 활용해 서울시의 공공 와이파이 정보를 제공
